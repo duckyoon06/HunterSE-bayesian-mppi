@@ -1,0 +1,28 @@
+{
+  "label": "adaptive20_validation",
+  "seed": 7,
+  "steps": 900,
+  "seconds": 30.0,
+  "reason": "time_limit",
+  "completed": true,
+  "mean_speed": 0.9850098126729454,
+  "speed_rmse": 0.02511431042792381,
+  "track_rmse_m": 0.07714634623463662,
+  "max_track_error_m": 0.08656631783369573,
+  "initial_min_speed": 0.837536280292625,
+  "initial_peak_yaw_rate": 0.4800401159524984,
+  "initial_max_track_error_m": 0.05723757449399214,
+  "median_ess": 42.38201002954128,
+  "mean_valid_fraction": 0.9999956597222223,
+  "laps": 1.6062855837678527,
+  "command_delta_rms": [
+    0.09308166073988247,
+    0.10034834797629258
+  ],
+  "applied_delta_rms": [
+    0.024048184271714953,
+    0.024134768426242938
+  ],
+  "mean_command_seconds": 0.1099264975549886,
+  "wall_seconds": 99.29861779999919
+}
