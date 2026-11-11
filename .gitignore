@@ -1,0 +1,26 @@
+# Download original dataset separately (see README)
+data/
+# Generated evaluation / simulation outputs (curated samples under docs/ and reports/)
+mppi/results/[0-9]*/
+mppi/results/diagnostic_check/
+mppi/results/importance_experiment/
+mppi/results/paper_alignment/*_seed*/
+mppi/results/paper_alignment/cli_fixed_check/
+mppi/results/paper_alignment/integration/
+mppi/results/paper_alignment/smoke/
+mppi/results/paper_alignment/full_seed7_screen/
+basis25_nll/trajectory_results/*_example.csv
+basis25_nll/trajectory_results/*_example.png
+basis25_nll/trajectory_results/window_metrics.csv
+basis25_nll/trajectory_results/.matplotlib/
+basis27_multistep/trajectory_results/*_example.csv
+basis27_multistep/trajectory_results/*_example.png
+basis27_multistep/trajectory_results/window_metrics.csv
+basis27_multistep/trajectory_results/.matplotlib/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
